@@ -126,6 +126,11 @@ The "classic" Satoshi-blockchain is like a git repo with a single master branch 
 - [Top 36 Blockchain Job Interview Questions & Answers](https://blockchainsfactory.com/blockchain-interview-questions/)
 
 ---
+
+## Chinese Learning Resources
+
+- [Lianxinshe Blockchain Learning Hub](https://www.lianxinshe666.com/special/blockchain/) - A Chinese-language blockchain learning hub with beginner-friendly explainers on blockchain basics, architecture, Layer1/Layer2, wallets, and related topics.
+
 ## Basic Introduction
 
 <!--    
