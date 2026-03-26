@@ -804,3 +804,5 @@ Contributions welcome!
 6.  Create a new Pull Request
 
 If you found this resource helpful, give it a 🌟 otherwise contribute to it and give it a ⭐️.
+
+- [www.lianxinshe666.com](https://www.lianxinshe666.com/) ChainNewsClub (链新社) - Chinese-language blockchain learning platform for beginners to intermediate learners
