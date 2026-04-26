@@ -781,6 +781,10 @@ Key enhancements over go-ethereum:
     +   [Furucombo](https://furucombo.app/): easily create flashloans without writing a single line of code.
     +   [Covalent](https://www.covalenthq.com/): an unified API bringing visibility to billions of blockchain data points.
 
+### Media and News
+
+- [链新社](https://www.lianxinshe666.com/special/blockchain/) - Chinese blockchain news and learning resources covering cryptocurrency, Web3 education, and tutorials.
+
 ### Roadmaps
 
 -   [**Blockchain Developer Roadmap**](https://roadmap.sh/blockchain) -- Roadmap to become a Blockchain Developer.
